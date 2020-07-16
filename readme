@@ -1,0 +1,5 @@
+用Maiter计算出顶点的当前pr值和delta值(Maiter的输入格式已经更改，id final_value value delta vector<id>
+用Util.ChangeGraph来获取对图的随机变化
+用DynamicDeltaPageRank来调整图和顶点的delta值
+用pagerank.PageRank来计算顶点的收敛pr值
+用initDeltaAndValue来合并原来的数据和value delta final_value.
